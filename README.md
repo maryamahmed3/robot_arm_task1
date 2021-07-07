@@ -55,6 +55,10 @@ Add the “arduino_robot_arm” package to “src” folder
 Compile the package:
 
 $ catkin_make
+
 $ roslaunch robot_arm_pkg check_motors.launch
+
+
+
 
 ![8853CFB4-5C63-4F7B-B196-D76510AB718C](https://user-images.githubusercontent.com/86611989/124684732-76a8ac80-ded8-11eb-84c4-1afdf04d3b4f.png)
